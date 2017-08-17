@@ -1,5 +1,5 @@
 baseurl = "https://Peilong.github.io/"  # End your URL with a `/` trailing slash.
-title = "Academic"
+title = "Peilong Li"
 copyright = "&copy; 2016 Peilong Li"
 theme = "academic"
 enableEmoji = true
