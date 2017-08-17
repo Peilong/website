@@ -1,19 +1,19 @@
 +++
-# Recent Publications widget.
+# Honor & awards widget.
 # This widget displays recent publications from `content/publication/`.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent Publications"
+title = "Honor & Awards"
 subtitle = ""
 widget = "publications"
 
 # Order that this section will appear in.
-weight = 30
+weight = 40
 
-# Number of publications to list.
-count = 10
+# Number of grants to list.
+count = 20
 
 # Show publication details (such as abstract)? (true/false)
 detailed_list = false

@@ -143,10 +143,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/Peilong"
 
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Peilong_Li"
+#  [[params.social]]
+#    icon = "researchgate"
+#    icon_pack = "ai"
+#    link = "https://www.researchgate.net/profile/Peilong_Li"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -170,7 +170,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Honor & Awards"
-  url = "#honor"
+  url = "#awards"
   weight = 4
 
 [[menu.main]]

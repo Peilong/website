@@ -33,4 +33,4 @@ weight = 1
 # Biography
 
 
-Dr. Peilong Li is a Research Assistant Professor at the ACANETS Lab. His research interests include Software Defined Infrastructure, Big Data Analytics, Parallel Computing and Computer Architecture.
+Dr. Peilong Li is a Research Assistant Professor at the <a href="https://acanets.uml.edu" target="_blank">ACANETS</a> Lab. His research interests include Software Defined Infrastructure, Big Data Analytics, Parallel Computing and Computer Architecture.
