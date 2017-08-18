@@ -27,7 +27,7 @@ weight = 40
 
 ##### NSF 14-547 I-Corps - Mar. 2015
 * SDNatics: Big Data Analytics of Software Defined Networks to Understand, Predict and Protect Critical Computer Networks. 
-* Award number: NSF #1547428
+* Award number: NSF #1530989
 * Amount: $50,000.00
 
 ------

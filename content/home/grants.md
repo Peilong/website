@@ -30,13 +30,13 @@ weight = 20
 ##### NSF 16-533 CICI
 * Proposal writer: CICI: Secure Data Architecture: STREAMS: Secure Trans- port and REsearch Architecture for Monitoring Stroke Recovery.
 * Award number: NSF #1547428
-* Amount: $499,858.00
+* Amount: $515,858.00
 
 ------
 
 ##### NSF 14-547 I-Corps
 * Entrepreneur Lead and proposal writer: SDNatics: Big Data Analytics of Software Defined Networks to Understand, Predict and Protect Critical Computer Networks.
-* Award number: NSF #1547428
+* Award number: NSF #1530989
 * Amount: $50,000.00
 
 
