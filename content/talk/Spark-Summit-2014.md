@@ -12,7 +12,8 @@ math = true
 
 url_pdf = ""
 url_slides = "https://spark-summit.org/2014/wp-content/uploads/2014/07/Sparkling-Indentification-of-Task-Skew-and-Speculative-Partition-of-Data-for-Spark-Applications-Peilong-Li.pdf"
-url_video = "https://www.youtube.com/watch?v=8hn2KVC8FvA&index=6&list=PL-x35fyliRwiuc6qy9z2erka2VX8LY53x"
+
+url_video = "https://www.youtube.com/watch?v=8hn2KVC8FvA"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
