@@ -21,7 +21,13 @@ url_slides = "https://dpdksummit.com/Archive/pdf/2016USA/Day02-Session03-Peilong
 
 url_video = "https://www.youtube.com/watch?v=VdskkbCzglE"
 
+[[url_custom]]
+name = "Project"
+url = "https://acanets.uml.edu/?p=418"
 
+[[url_custom]]
+name = "News"
+url = "https://www.uml.edu/Research/ACANETS/News.aspx"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
