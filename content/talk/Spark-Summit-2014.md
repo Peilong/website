@@ -10,7 +10,7 @@ event = "Spark Summit 2014"
 
 event_url = "https://spark-summit.org/2014/sparkling-identification-of-task-skew-and-speculative-partition-of-data-for-spark-applications/"
 
-location = "San Francisco, LA"
+location = "San Francisco, CA"
 
 selected = true
 math = true
