@@ -25,13 +25,6 @@ weight = 40
 
 ------
 
-##### NSF 14-547 I-Corps - Mar. 2015
-* SDNatics: Big Data Analytics of Software Defined Networks to Understand, Predict and Protect Critical Computer Networks. 
-* Award number: NSF #1530989
-* Amount: $50,000.00
-
-------
-
 ##### IEEE NAS 2015 Travel Award - Aug. 2015
 * For travel expenses on attending IEEE Networking, Architecture, and Storage Conference (NAS).
 * Amount: $850.00
