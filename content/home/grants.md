@@ -4,7 +4,7 @@
 date = "2017-08-17"
 draft = false
 
-title = "Recent Grants"
+title = "Research Grants Involved"
 subtitle = ""
 widget = "custom"
 
@@ -15,14 +15,14 @@ weight = 20
 
 
 ##### NSF 17-528 CICI
-* Co-PI and major proposal writer: CICI: RSARC: SECTOR: Building a SEcure and Compliant Cyberinfrastructure for Translational Research.
+* ```Co-PI``` and major proposal writer: CICI: RSARC: SECTOR: Building a SEcure and Compliant Cyberinfrastructure for Translational Research.
 * Award number: NSF #1738965
 * Amount: $999,651.00
 
 ------
 
 ##### Intel Academic Grant 2017
-* Major proposal writer: Accelerating P4 Based Data Plane with Vector Packet Processing.
+* Major proposal writer: Performance Evalulation and Optimization of Network Functions in DPDK Environment.
 * Amount: $50,000.00
 
 ------
