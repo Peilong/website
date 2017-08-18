@@ -14,14 +14,15 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am a teaching instructor for the following courses at University of Massachusetts Lowell:
 
-I am a teaching instructor for the following courses at University X:
+- [EECE.2160 ECE Application Programming](https://www.uml.edu/catalog/courses/EECE/2160)
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+And a guest instructor for:
+
+- [EECE.7110 Special Topics: Heterogeneous Computing (now EECE.6540)](https://www.uml.edu/catalog/courses/EECE/6540)
+
+And a teaching assistant for:
+
+- [EECE.3170 Microprocessors Systems Design I](https://www.uml.edu/catalog/courses/EECE/3170)
+- [EECE.5520 Microprocessor Systems II & Embedded Systems](https://www.uml.edu/catalog/courses/EECE/5520)
