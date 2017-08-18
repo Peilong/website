@@ -1,8 +1,7 @@
 +++
 # Grants widget.
-# This widget displays recent publications from `content/grant/`.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-17"
 draft = false
 
 title = "Recent Grants"
