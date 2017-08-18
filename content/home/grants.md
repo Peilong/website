@@ -23,7 +23,7 @@ weight = 20
 
 ##### Intel Academic Grant 2017
 * Major proposal writer: Accelerating P4 Based Data Plane with Vector Packet Processing.
-* Undergoing.
+* Amount: $50,000.00
 
 ------
 
