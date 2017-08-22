@@ -19,7 +19,7 @@ selected = true
 url_code = ""
 url_dataset = ""
 
-url_pdf = "https://www.researchgate.net/profile/Peilong_Li/publication/315639590_CareNet_Building_a_Secure_Software-defined_Infrastructure_for_Home-based_Healthcare/links/58f57581aca27289c21cc81c/CareNet-Building-a-Secure-Software-defined-Infrastructure-for-Home-based-Healthcare.pdf"
+url_pdf = ""
 
 url_project = "https://acanets.uml.edu/?p=7"
 
