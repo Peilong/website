@@ -18,10 +18,32 @@ weight = 1
   ]
 
 # List your qualifications (such as academic degrees).
+
 [[education.courses]]
-  course = "Ph.D., Computer Engineering,"
+  course = "Research Assistant Professor"
+  institution = "Department of Electrical and Computer Engineering, UMass Lowell"
+  year = 2017
+  
+[[education.courses]]
+  course = "Post-Doctoral Research Associate"
+  institution = "Advanced Computing and Networking Systems (ACANETS) Laboratory, UMass Lowell"
+  year = 2016
+
+[[education.courses]]
+  course = "Lecturer"
+  institution = "EECE.2160 Application Programming, UMass Lowell"
+  year = 2016
+
+[[education.courses]]
+  course = "Ph.D., Computer Engineering"
   institution = "University of Massachusetts Lowell"
   year = 2016
+
+[[education.courses]]
+  course = "Internship Research Scientist"
+  institution = "Podium Data, Inc."
+  year = 2015
+
 
 [[education.courses]]
   course = "BS, Electrical Engineering"

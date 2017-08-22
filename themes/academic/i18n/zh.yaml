@@ -33,6 +33,9 @@
 
 - id: education
   translation: 教育经历
+  
+- id: experience
+  translation: 经历
 
 # Publications widget
 
