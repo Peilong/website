@@ -13,6 +13,13 @@ weight = 20
 
 +++
 
+##### Intel Corp. Grant 2020
+* ```Co-PI``` and major proposal writer: Machine Learning Based Network Traffic Analysis on Intel Processors.
+* Amount: $499,999.00
+
+##### Intel Corp. Grant 2018
+* ```Co-PI``` and major proposal writer: Machine Learning Based Encrypted Network Traffic Analysis on Intel Processors.
+* Amount: $499,999.00
 
 ##### NSF 17-528 CICI
 * ```Co-PI``` and major proposal writer: CICI: RSARC: SECTOR: Building a SEcure and Compliant Cyberinfrastructure for Translational Research.

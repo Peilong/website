@@ -12,12 +12,18 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+    "Machine Learning",
     "Software Defined Infrastructure",
     "Big Data Analytics",
     "Parallel Computing and Computer Architecture"
   ]
 
 # List your qualifications (such as academic degrees).
+
+[[education.courses]]
+course = "Assistant Professor"
+institution = "Department of Computer Science, Elizabethtown College"
+year = 2018
 
 [[education.courses]]
   course = "Research Assistant Professor"
@@ -55,4 +61,4 @@ weight = 1
 # Biography
 
 
-Dr. Peilong Li (<a href="cv.pdf" target="_blank">CV</a>) is a Research Assistant Professor at the <a href="https://acanets.uml.edu" target="_blank">ACANETS</a> Lab. His research interests include Software Defined Infrastructure, Big Data Analytics, Parallel Computing and Computer Architecture.
+Dr. Peilong Li (<a href="cv.pdf" target="_blank">CV</a>) is an Assistant Professor at <a href="https://www.etown.edu/" target="_blank">Elizabethtown College</a>. He is in charge of the Data Science Major at the college. Prior to joining Etown, Dr. Li was a Research Assistant Professor at <a href="https://www.uml.edu/" target="_blank">University of Massachusetts Lowell</a>. His research interests include Machine Learning, Software Defined Infrastructure, Big Data Analytics, and Parallel Computing and Computer Architecture.

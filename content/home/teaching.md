@@ -14,7 +14,15 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at University of Massachusetts Lowell:
+I am currently teaching the following courses at Elizabethtown College:
+- [DS 200: Introduction to Data Science](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2231&returnto=1014#)
+- [DS 300: Data Mining](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2231&returnto=1014#)
+- [CS 113: The Power and Beauty of Programming (in Python)](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2129&returnto=1014)
+- [CS 121: Computer Science I (in Java)](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2231&returnto=1014#)
+- [CS 222: System Programming (in C)](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2129&returnto=1014)
+- [EGR 401: Senior Project in Engineering I](https://catalog.etown.edu/preview_program.php?catoid=20&poid=2128&returnto=1014#)
+
+I taught the following courses at University of Massachusetts Lowell:
 
 - [EECE.2160 ECE Application Programming](https://www.uml.edu/catalog/courses/EECE/2160)
 
