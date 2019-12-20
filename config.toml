@@ -1,6 +1,6 @@
 baseurl = "https://Peilong.github.io/"  # End your URL with a `/` trailing slash.
 title = "Peilong Li"
-copyright = "&copy; 2017 Peilong Li"
+copyright = "&copy; 2019 Peilong Li"
 theme = "academic"
 enableEmoji = false
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Peilong Li"
-  role = "Research Assistant Professor"
+  role = "Assistant Professor"
   organization = "University of Massachusetts Lowell"
   organization_url = "https://www.uml.edu"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
