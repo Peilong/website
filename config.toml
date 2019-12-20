@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Peilong Li"
   role = "Assistant Professor"
-  organization = "University of Massachusetts Lowell"
+  organization = "Elizabethtown College"
   organization_url = "https://www.uml.edu"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "peilong_li-286x300.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
